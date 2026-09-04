@@ -2,6 +2,7 @@
 release/
 hotel_booking/
 datos_intermedios/
+informe/
 hotels.csv
 *.csv.gz
 *.zip
